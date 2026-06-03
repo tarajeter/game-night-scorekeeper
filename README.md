@@ -7,7 +7,7 @@ A mobile-first scorekeeping app built with React for tracking scores during boar
 https://game-night-scorekeeper.vercel.app
 
 ## GitHub Repository
-https://github.com/tarajeter/game-night-repository
+https://github.com/tarajeter/game-night-scorekeeper
 
 ## Project Goals
 
@@ -31,7 +31,7 @@ This project was built to practice React state management while creating a real-
 
 - React
 - JavaScript
-- CSS
+- CSS3
 - Vercel
 
 ## Development Tools
