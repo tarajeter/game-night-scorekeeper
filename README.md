@@ -41,7 +41,16 @@ This project was built to practice React state management while creating a real-
 
 ## Screenshots
 
-(Add screenshots here)
+### Setup Screen
+![Setup Screen](./screenshots/setup-screen.png)
+
+### Active Game
+
+![Active Game](./screenshots/game-screen.png)
+
+### Player History
+
+![Player History](./screenshots/player-history.png)
 
 ## What I Learned
 
