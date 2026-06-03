@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Game Night Scorekeeper
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A mobile-first scorekeeping app built with React for tracking scores during board games, card games, and game nights. Players can be added, reordered before starting, tracked across multiple rounds, and automatically ranked on a live leaderboard.
 
-## Available Scripts
+## Live Demo
 
-In the project directory, you can run:
+https://game-night-scorekeeper.vercel.app
 
-### `npm start`
+## GitHub Repository
+https://github.com/tarajeter/game-night-repository
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Project Goals
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This project was built to practice React state management while creating a real-world application that could be used during board game nights. The focus was on mobile usability, clean score tracking, and a fast interface that requires minimal taps during gameplay.
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Add and remove players
+- Custom player order before starting a game
+- Round-by-round score entry
+- Automatic score totals
+- Live leaderboard
+- Winner highlighting
+- Player detail screen
+- Round history tracking
+- Custom target score
+- Mobile-friendly interface
+- Dark mode UI
 
-### `npm run build`
+## Built with
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React
+- JavaScript
+- CSS
+- Vercel
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Development Tools
+- Git
+- GitHub
+- Visual Studio Code
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Screenshots
 
-### `npm run eject`
+(Add screenshots here)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## What I Learned
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+While building this project I practiced:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- React state management
+- Array methods (map, reduce, sort)
+- Conditional rendering
+- Component styling
+- Mobile-first UI design
+- Data modeling
+- Git and GitHub workflows
+- Deployment with Vercel
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Future Improvements
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Multiplayer game rooms
+- Real-time synchronization
+- Shared scoreboards across devices
+- Additional game modes
+- Statistics and game history
